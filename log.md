@@ -37,4 +37,8 @@
 
 ### Day 1: June 1, Monday
 
+**Today's Progress**: In Basic JavaScript completed few topic, still remaining 10 problems
+
+**Thoughts**: Morning thought could have completed the entier section of Basic Javascript concepts but need to gear-up from tomorrow.
+
 ---
