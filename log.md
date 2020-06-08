@@ -42,3 +42,15 @@
 **Thoughts**: Morning thought could have completed the entier section of Basic Javascript concepts but need to gear-up from tomorrow.
 
 ---
+
+# Not able to continue from June-2 to June-7 ==> 6 days
+
+---
+
+### Day 2: June 8, Monday
+
+**Today's Progress**: Completed Basic JS
+
+**Thoughts**: Started ES6 Module
+
+---
