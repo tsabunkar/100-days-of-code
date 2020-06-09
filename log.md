@@ -54,3 +54,12 @@
 **Thoughts**: Started ES6 Module
 
 ---
+
+### Day 3: June 9, Tuesday
+
+**Today's Progress**: 16/31 problems completed in ES6 module from freecodecamp.
+Written my first Medium Blog- currently in draft version: https://medium.com/@tsabunkar/step-by-step-guideline-to-write-an-algorithm-4bc4c08d7c65
+
+**Thoughts**: Feeling exicited to Publish my first Medium Techincal Blog Content.
+
+---
