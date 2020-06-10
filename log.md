@@ -63,3 +63,10 @@ Written my first Medium Blog- currently in draft version: https://medium.com/@ts
 **Thoughts**: Feeling exicited to Publish my first Medium Techincal Blog Content.
 
 ---
+
+### Day 4: June 10, Wednesday
+
+**Today's Progress**: completed ES6 module from freecodecamp.
+Completed First Medium Blog https://medium.com/@tsabunkar/step-by-step-guideline-to-write-an-algorithm-4bc4c08d7c65?source=activity---post_recommended
+
+**Thoughts**: Feeling exicited to Publish my first Medium Techincal Blog Content.
